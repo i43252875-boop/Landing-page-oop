@@ -1,0 +1,1 @@
+<?php class Controller{function model($m){require_once "models/$m.php"; return new $m;}} ?>

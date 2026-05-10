@@ -1,0 +1,1 @@
+<?php require_once 'core/Controller.php'; require_once 'controllers/HomeController.php'; require_once 'controllers/AdminController.php'; $page=$_GET['page']??'home'; if($page=='admin')(new AdminController())->index(); else (new HomeController())->index(); ?>

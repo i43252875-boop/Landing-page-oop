@@ -1,0 +1,1 @@
+<!DOCTYPE html><html><head><title>BlueWave</title><link rel='stylesheet' href='assets/css/style.css'></head><body>

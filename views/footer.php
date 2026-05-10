@@ -1,0 +1,1 @@
+<footer class='footer'>© 2026 BlueWave Restaurant</footer></body></html>

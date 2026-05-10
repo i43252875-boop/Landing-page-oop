@@ -1,0 +1,1 @@
+<?php class Booking{private $f='models/booking.json'; function get(){return json_decode(file_get_contents($this->f),true)?:[];} function save($d){file_put_contents($this->f,json_encode($d,JSON_PRETTY_PRINT));}} ?>
